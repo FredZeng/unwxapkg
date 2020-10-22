@@ -1,6 +1,6 @@
 'use strict';
 
-const _ = require('./util');
+const _ = require('./src/util');
 
 const DEFAULT = {
   firstMark: [0xbe],

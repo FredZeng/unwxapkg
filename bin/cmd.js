@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-var Wxapkg = require('../src/index');
+var Wxapkg = require('../index');
 
 const fs = require('fs');
 const path = require('path');

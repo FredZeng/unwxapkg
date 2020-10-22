@@ -1,9 +1,10 @@
 {
   "name": "unwxvpkg",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "unpack wx[av]pkg",
   "author": "FredZeng",
-  "main": "src/index.js",
+  "main": "index.js",
+  "typings": "index.d.ts",
   "keywords": [
     "weapp",
     "wxapkg",
@@ -37,6 +38,8 @@
   "files": [
     "bin",
     "src",
-    "README.md"
+    "README.md",
+    "index.js",
+    "index.d.ts"
   ]
 }

@@ -31,6 +31,7 @@ unwxapkg core.wxvpkg
 
 ```js
 const Wxapkg = require('unwxvpkg');
+// import * as Wxapkg from 'unwxvpkg';
 const fs = require('fs');
 const path = require('path');
 
