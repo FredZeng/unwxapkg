@@ -1,6 +1,6 @@
 {
   "name": "unwxvpkg",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "unpack wx[av]pkg",
   "author": "FredZeng",
   "main": "index.js",
